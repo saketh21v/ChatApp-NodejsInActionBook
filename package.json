@@ -1,0 +1,25 @@
+{
+  "name": "chatroom",
+  "version": "0.0.1",
+  "description": "bleh bleh bleh i'm dracula",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "",
+    "mime": ""
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saketh21v/ChatApp-NodejsInActionBook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saketh21v/ChatApp-NodejsInActionBook/issues"
+  },
+  "homepage": "https://github.com/saketh21v/ChatApp-NodejsInActionBook#readme"
+}

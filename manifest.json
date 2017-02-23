@@ -1,9 +1,0 @@
-{
-    "name": "chatrooms",
-    "version": "0.0.1",
-    "description": "Bleh Bleh Bleh I'm Dracula :p",
-    "dependencies": {
-        "socket.io": "",
-        "mime": ""
-    }
-}
