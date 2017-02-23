@@ -4,8 +4,8 @@
   "description": "bleh bleh bleh i'm dracula",
   "main": "server.js",
   "dependencies": {
-    "socket.io": "",
-    "mime": ""
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
   },
   "devDependencies": {},
   "scripts": {
