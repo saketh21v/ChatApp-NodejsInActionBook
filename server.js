@@ -1,3 +1,4 @@
+'use strict'
 // Global vars and useful module imports
 
 var http = require('http');
